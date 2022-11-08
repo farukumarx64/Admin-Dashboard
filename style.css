@@ -275,7 +275,7 @@ body{
     display: grid;
     grid-template-rows: repeat(4, 1fr);
     gap: 15px;
-    margin-bottom: 200px;
+    margin-bottom: 25px;
 }
 
 .time, .rating {
